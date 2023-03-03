@@ -1,4 +1,4 @@
-# MVC-Tech-Blog
+# TechBlog
 ---
 ## Technologies Used
 ![GitHub top language](https://img.shields.io/github/languages/top/eSTee3/E-Commerce-Back-End?color=green&logo=github&logoColor=green)
